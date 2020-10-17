@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+
+COLOR_YELLOW = (1, 1, 0)
+COLOR_WHITE = (1, 1, 1)
+COLOR_BLUE = (0, 0, 1)
+COLOR_RED = (1, 0, 0)
+COLOR_GREEN = (0, 0.6, 0)
+COLOR_ORANGE = (1, 0.49, 0.14)
+COLOR_BLACK = (0, 0, 0)
+COLOR_CYAN = (0, 255, 255)
+COLOR_PURPLE = (255, 0, 255)
